@@ -4,8 +4,13 @@ This repository contains Python code for data analysis using the Pandas library.
 Follow these instructions to get a copy of the project and run the code on your local machine.
 
 ### Prerequisites
+Python installed on your system
+Required libraries: pandas
 
-You need to have Python and the required libraries installed. You can install the required libraries using the following command:
+### Analysis Steps
+To run the analysis, make sure you have Python and the pandas library installed. You can install pandas using the following command: pip install pandas
+
+Place the apple_products.csv file in the same directory as the Jupyter Notebook or Python script that you'll use for analysis.
 
 
 ## Code 
