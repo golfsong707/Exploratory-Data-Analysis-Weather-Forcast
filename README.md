@@ -12,7 +12,6 @@ To run the analysis, make sure you have Python and the pandas library installed.
 
 Place the apple_products.csv file in the same directory as the Jupyter Notebook or Python script that you'll use for analysis.
 
-
 ## Code 
 
 ### 1. Loading and Preprocessing Data
