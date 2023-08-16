@@ -44,34 +44,6 @@ Place the apple_products.csv file in the same directory as the Jupyter Notebook 
 
 Feel free to contribute improvements or additional analyses to this repository. Fork the repository, make your changes, and submit a pull request.
 
-## Authors
-
-- Your Name
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Here's a summary of what each part of your code does:
-
-You import the necessary libraries, pandas and numpy.
-You read a CSV file named "weather_2012.csv" using Pandas, and store the data in a DataFrame named weather_df.
-## You perform data cleaning and manipulation:
-Convert the 'Date/Time' column to a datetime data type.
-Display information about the DataFrame using the info() method.
-## You demonstrate data slicing and filtering:
-Display the first few rows of the DataFrame.
-Extract the 'Date/Time' column.
-Extract specific rows and columns using slicing and indexing.
-Filter data based on certain conditions, such as wind speed and weather conditions.
-## You perform tasks related to data analysis and filtering:
-Display unique values in the 'Weather' column.
-Count occurrences of each weather condition using the value_counts() method.
-## You demonstrate different ways to access columns and rows:
-Use label-based indexing to access specific rows and columns.
-Use integer-based indexing with the iloc method.
-You compare two methods of accessing columns and rows to check if they yield the same results.
-You show how to use the loc property to filter and access rows and columns based on labels.
-You further demonstrate filtering by snow-related weather conditions.
-You perform a comparison between wind speed and visibility conditions using boolean filtering.
+## Authors note:
+To further this analysis, additional analysis or visualization can be perform based on the new  requirements needed.
 
